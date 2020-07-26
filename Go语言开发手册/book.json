@@ -1,0 +1,24 @@
+{
+    "title":"Go语言开发手册",
+    "author":"JunStar",
+    "description":"Go语言开发手册",
+    "language":"ISO code",
+    "plugins": [
+        
+        "-highlight","-sharing","search-plus","yahei","chapter-fold","prism","anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "size": 4
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-vsc-dark-plus.css"
+            ]
+        }
+    },
+    "styles":{
+        "website": "styles/website.css"
+    }
+}
