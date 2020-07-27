@@ -1,0 +1,23 @@
+{
+    "title":"Gitbook从安装到发版",
+    "author":"JunStar",
+    "description":"Gitbook从安装到发版",
+    "language":"ISO code",
+    "plugins": [
+        "-highlight","-sharing","search-plus","yahei","chapter-fold","prism","anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "size": 2
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-vsc-dark-plus.css"
+            ]
+        }
+    },
+    "styles":{
+        "website": "styles/website.css"
+    }
+}
