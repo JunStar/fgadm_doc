@@ -1,5 +1,6 @@
-1. Go的安装
-1.1. 下载地址
+# Go的安装
+## 下载地址
 Go官网下载地址：https://golang.org/dl/ (打开有点慢)
 
-1.2. Windows安装
+Go语言中文网：https://studygolang.com/dl
+## Windows安装
