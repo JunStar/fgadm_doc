@@ -10,7 +10,7 @@
     "pluginsConfig": {
         "fontsettings": {
             "theme": "sepia",
-            "size": 4
+            "size": 2
         },
         "prism": {
             "css": [
